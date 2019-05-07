@@ -10,6 +10,7 @@ $frase = ola();
 echo strlen($frase);
 
 //---------------------------------------------------//
+
 echo "<p/>";
 function Salario(){
     return 980.90;
